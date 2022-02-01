@@ -1,7 +1,7 @@
 ![Front-End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, my name is Shawon Ahmed
 #### Front-End Web Developer
-![Front-End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Hi, I am a computer science student.I am highly skilled to HTML,CSS,javascript,bootstrap(framework) .I am an expert in this type of work. If you like my cv then hire me for this type of work. Thank you
 
