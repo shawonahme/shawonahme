@@ -1,30 +1,75 @@
-![Front-End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-### Hi there 👋, my name is Shawon Ahmed
-#### Front-End Web Developer
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
+###
 
-Hi, I am a computer science student.I am highly skilled to HTML,CSS,javascript,bootstrap(framework) .I am an expert in this type of work. If you like my cv then hire me for this type of work. Thank you
+<h1 align="center">Hi there! 👋 I'm Shawon</h1>
 
-Skills: BOOSTRAP/ REACT / JS / HTML / CSS
+###
 
-- 🔭 I’m currently working on Junior Front-End Developer 
-- 💬 Ask me about : BOOSTRAP/ REACT / JS / HTML / CSS 
+<div align="center">
+  <a href="https://www.linkedin.com/in/shawon-ahmed-4b091b1a4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:shawonahmed55660@gmail.com"" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/8801912843658" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="whatsapp logo"  />
+  </a>
+</div>
 
+###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shawonahme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100074895040788)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15064262/shawon-ahmed-shadhin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/watch?v=3upohaEVARE)  
+<h3 align="left">👩‍💻  About Me</h3>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shawonahme)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">I am a passionate and creative React Frontend Developer, dedicated to building high-quality and user-friendly web applications. With extensive experience in React, JavaScript, and modern web technologies, I specialize in delivering interactive and responsive user interfaces.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonahme)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shawonahme&show_icons=true&count_private=true)  
+<h3 align="left">Technologies I Use</h3>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shawonahme)  
+###
 
-![GitHub metrics](https://metrics.lecoq.io/shawonahme)  
+<p align="left"># My Development Stack<br><br>## Frontend:<br>- **React.js**: A powerful JavaScript library for building user interfaces.<br>- **JavaScript (ES6+)**: Modern JavaScript for enhanced functionality.<br>- **HTML5**: Structure and semantics for web content.<br>- **CSS3**: Styling the user interface for a clean and responsive design.<br>- **Tailwind CSS**: Utility-first CSS framework for building modern, responsive designs.<br>- **Bootstrap**: Popular framework for responsive, mobile-first web design.<br>- **Material-UI**: A React component library implementing Google’s Material Design.<br><br>## Backend:<br>- **Node.js**: JavaScript runtime for building server-side applications.<br>- **Express.js**: Fast and minimalist web framework for Node.js.<br>- **MongoDB**: NoSQL database for storing data efficiently.</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shawonahme)  
+###
 
-![Profile views](https://gpvc.arturio.dev/shawonahme)  
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="39" alt="mongodb logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="39" alt="express logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="39" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="39" alt="tailwindcss logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="39" alt="firebase logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="39" alt="git logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="39" alt="github logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
